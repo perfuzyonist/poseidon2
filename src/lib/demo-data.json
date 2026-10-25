@@ -1,0 +1,119 @@
+{
+  "products": [
+    {
+      "id": "nature-60",
+      "name": "Nature Serisi Akvaryum",
+      "category": "Akvaryumlar",
+      "price": 3450,
+      "oldPrice": 3900,
+      "stock": 5,
+      "image": "/images/aquascape-hero.webp",
+      "description": "Sualtı dünyanız için sade ve zamansız bir başlangıç. 60 cm örnek akvaryum modeli. Ölçüler, cam kalınlığı ve paket içeriği sipariş öncesi teyit edilir.",
+      "badge": "Özel seçim",
+      "featured": true
+    },
+    {
+      "id": "external-filter",
+      "name": "Dış Filtre 800 L/h",
+      "category": "Ekipmanlar",
+      "price": 2250,
+      "oldPrice": null,
+      "stock": 12,
+      "image": "/images/filter.svg",
+      "description": "Dengeli bir akvaryum için mekanik ve biyolojik filtrasyon. 800 L/h örnek ürün; kullanılacak akvaryum hacmine uygunluğu için bize danışın.",
+      "badge": "",
+      "featured": true
+    },
+    {
+      "id": "premium-food",
+      "name": "Tropikal Balık Yemi",
+      "category": "Yem & Bakım",
+      "price": 285,
+      "oldPrice": 340,
+      "stock": 28,
+      "image": "/images/food.svg",
+      "description": "Tropikal balıkların günlük beslenmesine uygun pul yem. 100 ml örnek ürün. Besleme miktarı balık türüne ve sayısına göre değişir.",
+      "badge": "Fırsat",
+      "featured": true
+    },
+    {
+      "id": "anubias",
+      "name": "Anubias Nana",
+      "category": "Bitki & Dekor",
+      "price": 240,
+      "oldPrice": null,
+      "stock": 18,
+      "image": "/images/plant.svg",
+      "description": "Doğal bir sualtı peyzajı için yeşil bir dokunuş. Rizom kısmı tabana gömülmeden kaya veya köke bağlanabilir.",
+      "badge": "Doğal dokunuş",
+      "featured": false
+    },
+    {
+      "id": "betta",
+      "name": "Halfmoon Betta",
+      "category": "Canlılar",
+      "price": 450,
+      "oldPrice": null,
+      "stock": 7,
+      "image": "/images/betta.jpg",
+      "description": "Gösterişli yüzgeçleriyle dikkat çeken Betta. Her canlının rengi ve deseni farklıdır; güncel canlı görseli ve uygun yaşam koşulları için iletişime geçin.",
+      "badge": "Yeni gelen",
+      "featured": false
+    },
+    {
+      "id": "led-light",
+      "name": "Full Spectrum LED 60",
+      "category": "Ekipmanlar",
+      "price": 1650,
+      "oldPrice": null,
+      "stock": 9,
+      "image": "/images/light.svg",
+      "description": "Bitkili akvaryum kurulumlarını tamamlayan 60 cm LED aydınlatma. Örnek ürün; güç ve uyum bilgisi mağazadan teyit edilir.",
+      "badge": "",
+      "featured": false
+    },
+    {
+      "id": "aquascape-rock",
+      "name": "Doğal Peyzaj Taşı",
+      "category": "Bitki & Dekor",
+      "price": 180,
+      "oldPrice": null,
+      "stock": 35,
+      "image": "/images/rocks.svg",
+      "description": "Akvaryum peyzajında derinlik ve karakter oluşturmak için doğal taş seçkisi. Fiyat örnek olarak kilogram bazında belirtilmiştir.",
+      "badge": "",
+      "featured": false
+    },
+    {
+      "id": "ocellaris",
+      "name": "Ocellaris Palyaço Balığı",
+      "category": "Canlılar",
+      "price": 650,
+      "oldPrice": null,
+      "stock": 50,
+      "image": "/images/clownfish.jpg",
+      "description": "Turuncu ve beyaz renkleriyle deniz akvaryumlarının sevilen canlısı. Yalnızca uygun ve oturmuş deniz akvaryumları için değerlendirilir. Canlı ve teslim koşulları mağazada teyit edilir.",
+      "badge": "Çok sevilen",
+      "featured": true
+    }
+  ],
+  "settings": {
+    "storeName": "Poseidon Akvaryum",
+    "phone": "+90 551 859 49 01",
+    "email": "",
+    "address": "İstiklal Mahallesi, 1156 Sokak, No:26/B, Pamukkale / Denizli",
+    "hours": "",
+    "instagram": "https://www.instagram.com/denizliposeidonakvaryum/",
+    "shippingEnabled": true,
+    "pickupEnabled": true,
+    "shippingFee": 99,
+    "freeShippingThreshold": 1500,
+    "campaignEnabled": true,
+    "campaignEyebrow": "FIRSAT PAKETİ!",
+    "campaignTitle": "Betalık + Beta Balığı ve Yem Sadece 350₺!",
+    "campaignDescription": "Kampanyamız stoklarla sınırlıdır.",
+    "campaignButton": "Hemen Satın Al",
+    "campaignHref": "/urunler",
+    "campaignImage": "/images/demo-bdd12f8f-896d-4c96-8cd5-ce6061ca2666.webp"
+  }
+}
